@@ -1,5 +1,5 @@
 # Project - BeeMilkTea
-### https://bee-milktea.herokuaapp.com/
+### [Bee-milktea.herokuapp.com](http://bee-milktea.herokuapp.com/)
 
 I built this web application using Django, SQLite3, Javascript and Bootstrap.
 #### short demo video: https://www.youtube.com/watch?v=Tux4C7zjBn8
